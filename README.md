@@ -128,6 +128,7 @@ die-on-term = true
 pythonpath = <path_to_your_app>
 pidfile = <path_to_pidfile>
 logto = <path_to_logfile>
+```
 
 
 ## License
