@@ -139,6 +139,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or issues, please reach out to:
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Name:** Nishanth Fiona
+- **Email:** fiona.nf12@gmail.com
+- **GitHub:** [nishanth fiona](https://github.com/Nishanthfiona)
